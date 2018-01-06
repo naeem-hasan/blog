@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://username.github.io/post/2018-01-06-first-post/</loc>
+    <loc>https://naeem-hasan.github.io/post/2018-01-06-first-post/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://username.github.io/page/about/</loc>
+    <loc>https://naeem-hasan.github.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/</loc>
+    <loc>https://naeem-hasan.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://username.github.io/post/</loc>
+    <loc>https://naeem-hasan.github.io/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/tags/</loc>
+    <loc>https://naeem-hasan.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naeem-hasan.github.io/post/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naeem-hasan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
