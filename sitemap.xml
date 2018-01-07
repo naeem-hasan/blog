@@ -3,38 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/post/2018-01-06-first-post/</loc>
+    <loc>https://naeemhasan.tk/blog/post/2018-01-07-when-i-am-stuck/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://naeemhasan.tk/blog/post/2018-01-06-first-post/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/page/about/</loc>
+    <loc>https://naeemhasan.tk/blog/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/categories/</loc>
+    <loc>https://naeemhasan.tk/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <loc>https://naeemhasan.tk/blog/tags/debugging/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/page/</loc>
+    <loc>https://naeemhasan.tk/blog/tags/help/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/post/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <loc>https://naeemhasan.tk/blog/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://naeem-hasan.github.io/blog/tags/</loc>
+    <loc>https://naeemhasan.tk/blog/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naeemhasan.tk/blog/post/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naeemhasan.tk/blog/tags/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naeemhasan.tk/blog/tags/tips/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
